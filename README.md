@@ -22,7 +22,7 @@ and what makes Concordium Blockchain from other Public Blockchains:
 
 # Concordium Blockchain
 
-A comprehensive overview and implementation resources for building on the Concordium blockchain — a privacy-focused, regulatory-ready Layer 1 blockchain with built-in identity.
+A comprehensive overview and implementation resources for building on the Concordium blockchain - a privacy focused, regulatory ready Layer 1 blockchain with built-in identity.
 
 ---
 
